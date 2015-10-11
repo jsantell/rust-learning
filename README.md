@@ -16,3 +16,4 @@ My garbage rust code while going through [The Rust Book](https://doc.rust-lang.o
 * [4.3 Conditional Compilation](https://github.com/jsantell/rust-learning/tree/master/4.3-conditional-compilation)
 * [4.4 Documentation](https://github.com/jsantell/rust-learning/tree/master/4.4-documentation)
 * [4.5 Iterators](https://github.com/jsantell/rust-learning/tree/master/4.5-iterators)
+* [4.6 Concurrency](https://github.com/jsantell/rust-learning/tree/master/4.6-concurrency)
