@@ -1,0 +1,10 @@
+[package]
+name = "embed"
+version = "0.1.0"
+authors = ["Jordan Santell <jsantell@gmail.com>"]
+
+# We want to compile this into standard dynamic library,
+# rather than the default `rlib`, rust specific format
+[lib]
+name = "embed"
+crate-type = ["dylib"]
