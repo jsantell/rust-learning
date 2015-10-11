@@ -13,3 +13,4 @@ My garbage rust code while going through [The Rust Book](https://doc.rust-lang.o
 
 * 4.1 The Stack and the Heap
 * [4.2 Testing](https://github.com/jsantell/rust-learning/tree/master/4.2-testing)
+* [4.3 Conditional Compilation](https://github.com/jsantell/rust-learning/tree/master/4.3-conditional-compilation)

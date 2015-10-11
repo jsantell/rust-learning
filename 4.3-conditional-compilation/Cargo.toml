@@ -1,0 +1,15 @@
+[package]
+name = "conditional-compilation"
+version = "0.1.0"
+authors = ["Jordan Santell <jsantell@gmail.com>"]
+
+[dependencies]
+libssh2-sys = { git = "https://github.com/alexcrichton/ssh2-rs" }
+
+# Optional dependency for Unix
+[target.x86_64-unknown-linux-gnu.dependencies]
+openssl-sys = { git = "https://github.com/alexcrichton/openssl-sys" }
+
+[features]
+
+secure-password = ["openssl-sys"]
