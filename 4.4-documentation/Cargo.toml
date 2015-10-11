@@ -1,0 +1,4 @@
+[package]
+name = "docs"
+version = "0.1.0"
+authors = ["Jordan Santell <jordan@jsantell.com>"]
